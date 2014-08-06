@@ -1,7 +1,7 @@
 Adafruit-TFT
 ============
 
-This is a demonstration of the use of an Adafruit 1.8" 18-bit color TFT LCD display with an Ultrasonic PING sensor.
+This is a demonstration of the use of an Adafruit 1.8" 18-bit color TFT LCD display with an Ultrasonic PING sensor on a chipKIT microcontroller board.
 
 Documentation
 -------------
